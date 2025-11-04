@@ -21,8 +21,8 @@ YOU are choosing to make these modifications, and if you point the finger at me 
 Your warranty will be void if you tamper with any part of your device / software.
 {{< /alertBlockquote  >}}
 
-```device info
-DEVICES :VINCE
+```information
+DEVICES : VINCE
 BUILD DATE : 2 November 2025
 TYPE : Vanila Build
 ```
