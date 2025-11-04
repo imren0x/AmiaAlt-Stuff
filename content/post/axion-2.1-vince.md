@@ -41,7 +41,7 @@ TYPE : Vanila Build
 It seems that AxionOS 2.1 is taking up too much system size so there is not enough space to install GAPPS, so how to install GAPPS?
 {{< /alertBlockquote  >}}
 
-{{< alertBlockquote type="note" >}}
+{{< alertBlockquote type="tip" >}}
 please follow these tips.
 {{< /alertBlockquote  >}}
 
