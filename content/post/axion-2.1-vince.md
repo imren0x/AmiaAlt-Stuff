@@ -59,10 +59,10 @@ please follow these tips.
 
 <tr>
   <td>
-    <img src="https://raw.githubusercontent.com/RennAlt/shenprjkt.github.io/refs/heads/wip-4.19-vince/assets/images/screenshots/2023/Maret/05/miku-1.jpg" width="290" height="580" align="left" />
+    <img src="https://raw.githubusercontent.com/KanadeAlt/AmiaAlt-Stuff/refs/heads/reimu/screenshots/axi1.jpg" width="300" height="590" align="left" />
   </td>
   <td>
-    <img src="https://raw.githubusercontent.com/RennAlt/shenprjkt.github.io/refs/heads/wip-4.19-vince/assets/images/screenshots/2023/Maret/05/miku-4.jpg" width="290" height="580" align="center" />
+    <img src="https://raw.githubusercontent.com/KanadeAlt/AmiaAlt-Stuff/refs/heads/reimu/screenshots/axi2.jpg" width="300" height="590" align="center" />
   </td>
 </tr>
 
