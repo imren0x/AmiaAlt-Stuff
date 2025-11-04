@@ -21,11 +21,11 @@ YOU are choosing to make these modifications, and if you point the finger at me 
 Your warranty will be void if you tamper with any part of your device / software.
 {{< /alertBlockquote  >}}
 
-{{< alertBlockquote   >}}
+
 DEVICE: Vince
 BUILD DATE: 25 October 2025
 TYPE: Vanilla
-{{< /alertBlockquote  >}}
+
 
 **Changelog**
 <ul>
