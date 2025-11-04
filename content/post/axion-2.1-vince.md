@@ -52,7 +52,7 @@ please follow these tips.
 - flash my personal kernel "20251024-kernel-vince-defconfig.img"
 - Reboot
 - install SukiSU manager apk to support KernelSU
-- Flash LiteGapps "GMS Core, Playstore, GoogleServicesFramework" addons via SukiSU manager
+- Flash LiteGapps "GMS Core, Playstore, GoogleServicesFramework, Common" addons via SukiSU manager
 - or if you want it easy, just repartition the system and flash as usual (optional)
 
 ## Screenshots
@@ -72,7 +72,7 @@ please follow these tips.
 
 [axion-2.1-NIGHTLY-20251102-COMMUNITY-VANILLA-vince.zip](https://pixeldrain.com/u/wWvrmK4w)
 
-[Litegapps-addons gms/playstore/GoogleServicesFramework](https://sourceforge.net/projects/litegapps/files/addon/arm64/36/core/)
+[Litegapps-addons gms/playstore/GoogleServicesFramework/common](https://sourceforge.net/projects/litegapps/files/addon/arm64/36/core/)
 
 **Optional**
 - [vince_increase_system_to_4.5gb.zip](https://t.me/MI8953/12/8126)
