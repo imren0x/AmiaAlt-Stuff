@@ -27,7 +27,6 @@ BUILD DATE : 2 November 2025
 TYPE : Vanila Build
 ```
 
-
 **Changelog**
 <ul>
     <li>October 2025 security patch</li>
@@ -50,5 +49,7 @@ TYPE : Vanila Build
 {{<externalLinkCard title="axion-2.1-NIGHTLY-20251102-COMMUNITY-VANILLA-vince.zip" link="https://pixeldrain.com/u/wWvrmK4w" cover="auto">}}
 
 ## Support Me
+
+{{<externalLinkCard title="Support via PayPal" link="https://www.paypal.com/paypalme/ShandyReynaldi" cover="auto">}}
 
 <a href="https://trakteer.id/rennalt/tip" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Novel :D"  style="height: 60px !important;width: 217px !important;" align="center"></a>
