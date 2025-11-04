@@ -27,6 +27,23 @@ BUILD DATE: 25 October 2025
 TYPE: Vanilla
 {{< /alertBlockquote  >}}
 
+**Changelog**
+<ul>
+    <li>October 2025 security patch</li>
+    <li>fixed fingerprint in lineage-22.2 which I previously ignored (fingerprint now works on all variants)</li>
+    <li>[And More](https://t.me/me_alts/87)</li>
+</ul>
+
+**Prerequisites**
+- Unlocked Bootloader
+
+**Flashing Instruction**
+- Wipe System, Vendor, Cache and Dalvik
+- Wipe Data (optional if from older build)
+- Install Rom
+- flash my personal kernel for fix touchscreen & refrashrate isu
+- Reboot
+
 ## Downloads
 
 {{<externalLinkCard title="Pixeldrain" link="https://pixeldrain.com/u/wNHJMXYY" cover="auto">}}
