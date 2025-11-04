@@ -10,9 +10,9 @@ categories:
   - test
 math: true
 mermaid: true
-photos:
-  - https://raw.githubusercontent.com/KanadeAlt/RenzAlt-Banner/refs/heads/main/20250906_172035.jpg
 ---
+
+![Alts Banner](https://raw.githubusercontent.com/KanadeAlt/RenzAlt-Banner/refs/heads/main/20250906_172035.jpg)
 
 ```disclaimer
 /*
