@@ -1,6 +1,6 @@
 baseURL = 'https://example.org/'
 languageCode = 'en'
-title = 'Renzprjkt'
+title = 'Renzalt blog'
 theme = 'reimu'
 
 defaultContentLanguage = 'en'
