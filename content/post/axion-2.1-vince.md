@@ -22,22 +22,17 @@ Your warranty will be void if you tamper with any part of your device / software
 {{< /alertBlockquote  >}}
 
 
-```information
+```info
 DEVICES : VINCE
 BUILD DATE : 2 November 2025
 TYPE : Vanila Build
 ```
 
-
 **Changelog**
 <ul>
     <li>October 2025 security patch</li>
-    <li>fixed fingerprint in lineage-22.2 which I previously ignored (fingerprint now works on all variants)</li>
-    <li>[And More](https://t.me/me_alts/87)</li>
+    <li>fixed Camera & libgf_* missing depedency</li>
 </ul>
-
-**Prerequisites**
-- Unlocked Bootloader
 
 {{< alertBlockquote type="note" >}}
 It seems that AxionOS 2.1 is taking up too much system size so there is not enough space to install GAPPS, so how to install GAPPS?
@@ -46,6 +41,9 @@ It seems that AxionOS 2.1 is taking up too much system size so there is not enou
 {{< alertBlockquote type="tip" >}}
 please follow these tips.
 {{< /alertBlockquote  >}}
+
+**Prerequisites**
+- Unlocked Bootloader
 
 **Flashing Instruction**
 - Wipe System, Vendor, Cache and Dalvik
