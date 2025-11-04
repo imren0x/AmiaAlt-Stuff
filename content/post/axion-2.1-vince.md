@@ -55,6 +55,17 @@ please follow these tips.
 - Flash LiteGapps "GMS Core, Playstore, GoogleServicesFramework" addons via SukiSU manager
 - or if you want it easy, just repartition the system and flash as usual (optional)
 
+## Screenshots
+
+<tr>
+  <td>
+    <img src="https://raw.githubusercontent.com/RennAlt/shenprjkt.github.io/refs/heads/wip-4.19-vince/assets/images/screenshots/2023/Maret/05/miku-1.jpg" width="290" height="580" align="left" />
+  </td>
+  <td>
+    <img src="https://raw.githubusercontent.com/RennAlt/shenprjkt.github.io/refs/heads/wip-4.19-vince/assets/images/screenshots/2023/Maret/05/miku-4.jpg" width="290" height="580" align="center" />
+  </td>
+</tr>
+
 ## Downloads
 
 [20251024-kernel-vince-defconfig.img](https://t.me/RenzAlt_Archive/17)
