@@ -235,7 +235,7 @@ dark_mode:
   # true means that the dark mode is enabled by default
   # false means that the dark mode is disabled by default
   # auto means that the dark mode is automatically switched according to the system settings
-  enable: auto # true | false | auto
+  enable: false # true | false | auto
 
 ########################################
 # Analytics
@@ -467,13 +467,13 @@ firework:
 
 # show the copyright below each article
 article_copyright:
-  enable: false
+  enable: true
   content:
     author: true
     link: true
-    title: false
-    date: false
-    updated: false
+    title: true
+    date: true
+    updated: true
     license: true
     license_type: by-nc-sa # https://creativecommons.org/licenses
 
@@ -591,12 +591,12 @@ service_worker:
 
 # Experimental
 live2d:
-  enable: false
+  enable: true
   position: left # left or right
 
 # Experimental
 live2d_widgets:
-  enable: false
+  enable: true
   position: left # left or right
 
 # https://github.com/CodeByZach/pace
