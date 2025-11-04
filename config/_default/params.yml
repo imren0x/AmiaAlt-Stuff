@@ -92,7 +92,7 @@ copyright:
 
 footer:
   since: 2020 # 2020-current year
-  powered: true
+  powered: false
   count: true
   busuanzi: true
   icon:
