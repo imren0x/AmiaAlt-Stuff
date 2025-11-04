@@ -3,7 +3,7 @@ name: Deploy Hugo site to GitHub Pages
 on:
   push:
     branches:
-      - reimu  # ganti dengan nama branch utama kamu jika perlu
+      - reimu  # ganti sesuai nama branch utama
 
 permissions:
   contents: read
@@ -21,12 +21,13 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          submodules: true  # <-- penting agar folder themes/reimu ikut diambil
+          submodules: true  # untuk submodule
 
-      - name: Setup Hugo
+      - name: Setup Hugo (Extended)
         uses: peaceiris/actions-hugo@v3
         with:
           hugo-version: 'latest'
+          extended: true   # agar scss bisa di build
 
       - name: Build site
         run: hugo --minify
