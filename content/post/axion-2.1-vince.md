@@ -46,7 +46,9 @@ TYPE : Vanila Build
 
 ## Downloads
 
-{{<externalLinkCard title="axion-2.1-NIGHTLY-20251102-COMMUNITY-VANILLA-vince.zip" link="https://pixeldrain.com/u/wWvrmK4w" cover="auto">}}
+[20251024-kernel-vince-defconfig.img](https://t.me/RenzAlt_Archive/17)
+
+[axion-2.1-NIGHTLY-20251102-COMMUNITY-VANILLA-vince.zip](https://pixeldrain.com/u/wWvrmK4w)
 
 ## Support Me
 
@@ -57,5 +59,3 @@ If you like my work and my efforts so far, you can make a small donation here.
 {{<externalLinkCard title="Support via PayPal" link="https://www.paypal.com/paypalme/ShandyReynaldi" cover="auto">}}
 
 {{<externalLinkCard title="Support via trakteer.id" link="https://trakteer.id/rennalt/tip" cover="auto">}}
-
-{{<heatMapCard levelStandard="1000,5000,10000">}}
