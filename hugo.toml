@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://kanadealt.github.io/AmiaAlt-Stuff/'
 languageCode = 'en'
 title = 'Renzalt blog'
 theme = 'reimu'
