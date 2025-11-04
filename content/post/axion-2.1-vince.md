@@ -59,10 +59,10 @@ please follow these tips.
 
 <tr>
   <td>
-    <img src="https://raw.githubusercontent.com/KanadeAlt/AmiaAlt-Stuff/refs/heads/reimu/screenshots/axi1.jpg" width="320" height="610" align="left" />
+    <img src="https://raw.githubusercontent.com/KanadeAlt/AmiaAlt-Stuff/refs/heads/reimu/screenshots/axi1.jpg" width="350" height="640" align="left" />
   </td>
   <td>
-    <img src="https://raw.githubusercontent.com/KanadeAlt/AmiaAlt-Stuff/refs/heads/reimu/screenshots/axi2.jpg" width="320" height="610" align="center" />
+    <img src="https://raw.githubusercontent.com/KanadeAlt/AmiaAlt-Stuff/refs/heads/reimu/screenshots/axi2.jpg" width="350" height="640" align="center" />
   </td>
 </tr>
 
