@@ -50,6 +50,10 @@ TYPE : Vanila Build
 
 ## Support Me
 
+{{< alertBlockquote type="warning" >}}
+If you like my work and my efforts so far, you can make a small donation here.
+{{< /alertBlockquote  >}}
+
 {{<externalLinkCard title="Support via PayPal" link="https://www.paypal.com/paypalme/ShandyReynaldi" cover="auto">}}
 
 <a href="https://trakteer.id/rennalt/tip" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Novel :D"  style="height: 60px !important;width: 217px !important;" align="center"></a>
