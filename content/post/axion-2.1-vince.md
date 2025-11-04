@@ -10,9 +10,9 @@ categories:
   - test
 math: true
 mermaid: true
+photos:
+  - https://raw.githubusercontent.com/KanadeAlt/RenzAlt-Banner/refs/heads/main/photo_2025-10-26_00-39-01.jpg
 ---
-
-![Alts Banner](https://raw.githubusercontent.com/KanadeAlt/RenzAlt-Banner/refs/heads/main/photo_2025-10-26_00-39-01.jpg)
 
 {{< alertBlockquote type="warning" >}}
 I'm not responsible for bricked devices, dead SD cards, thermonuclear war, or you getting fired because the alarm app failed. 
