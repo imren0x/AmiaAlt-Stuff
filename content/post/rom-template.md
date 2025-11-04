@@ -14,7 +14,7 @@ mermaid: true
 
 ![Alts Banner](https://raw.githubusercontent.com/KanadeAlt/RenzAlt-Banner/refs/heads/main/20250906_172035.jpg)
 
-```disclaimer
+```csharp
 /*
  * I'm not responsible for bricked devices, dead SD cards, thermonuclear war, or you getting fired because the alarm app failed. 
  * Please do some research if you have any concerns about features included in the products you find here before flashing it! 
@@ -23,7 +23,7 @@ mermaid: true
  */
 ```
 
-```firmware
+```bash
 DEVICE: Vince
 BUILD DATE: 25 October 2025
 TYPE: Vanilla
