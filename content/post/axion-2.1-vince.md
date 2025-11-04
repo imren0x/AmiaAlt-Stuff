@@ -37,18 +37,34 @@ TYPE : Vanila Build
 **Prerequisites**
 - Unlocked Bootloader
 
+{{< alertBlockquote type="note" >}}
+It seems that AxionOS 2.1 is taking up too much system size so there is not enough space to install GAPPS, so how to install GAPPS?
+{{< /alertBlockquote  >}}
+
+{{< alertBlockquote type="note" >}}
+please follow these tips.
+{{< /alertBlockquote  >}}
+
 **Flashing Instruction**
 - Wipe System, Vendor, Cache and Dalvik
 - Wipe Data (optional if from older build)
 - Install Rom
-- flash my personal kernel for fix touchscreen & refrashrate isu
+- flash my personal kernel "20251024-kernel-vince-defconfig.img"
 - Reboot
+- install SukiSU manager apk to support KernelSU
+- Flash LiteGapps "GMS Core, Playstore, GoogleServicesFramework" addons via SukiSU manager
+- or if you want it easy, just repartition the system and flash as usual (optional)
 
 ## Downloads
 
 [20251024-kernel-vince-defconfig.img](https://t.me/RenzAlt_Archive/17)
 
 [axion-2.1-NIGHTLY-20251102-COMMUNITY-VANILLA-vince.zip](https://pixeldrain.com/u/wWvrmK4w)
+
+[Litegapps-addons gms/playstore/GoogleServicesFramework](https://sourceforge.net/projects/litegapps/files/addon/arm64/36/core/)
+
+**optional**
+[vince_increase_system_to_4.5gb.zip](https://t.me/MI8953/12/8126)
 
 ## Support Me
 
