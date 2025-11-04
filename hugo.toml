@@ -1,7 +1,7 @@
 baseURL = 'https://kanadealt.github.io/AmiaAlt-Stuff/'
 languageCode = 'en'
 title = 'Renzalt blog'
-theme = 'reimu'
+theme = 'touhou'
 
 defaultContentLanguage = 'en'
 [languages]
