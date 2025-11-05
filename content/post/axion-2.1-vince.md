@@ -68,6 +68,8 @@ please follow these tips.
 
 ## Downloads
 
+[SukiSU_3.1.9_13307-release.apk](https://t.me/MI8953/16/5640)
+
 [20251024-kernel-vince-defconfig.img](https://t.me/RenzAlt_Archive/17)
 
 [axion-2.1-NIGHTLY-20251102-COMMUNITY-VANILLA-vince.zip](https://pixeldrain.com/u/wWvrmK4w)
