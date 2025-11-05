@@ -34,7 +34,7 @@ banner: "images/banner.webp"
 
 # If you want to use the srcset attribute, please enable it
 banner_srcset:
-  enable: false
+  enable: true
   srcset:
     - src: "images/banner-600w.webp"
       media: "(max-width: 479px)"
@@ -105,7 +105,7 @@ sidebar: right
 
 social:
   # email: mailto:xxx@gmail.com
-  # github: https://github.com/yourname
+  github: https://github.com/KanadeAlt
   # google: https://plus.google.com/yourname
   # twitter: https://twitter.com/yourname
   # facebook: https://www.facebook.com/yourname
@@ -126,7 +126,7 @@ social:
   # deviantart: https://yourname.deviantart.com
   # stackoverflow: https://stackoverflow.com/users/yourname
   # keybase: https://keybase.io/yourname
-  # telegram: https://t.me/yourname
+  telegram: https://t.me/me_renzalt
   # discord: https://discordapp.com/users/yourname
   # steam: https://steamcommunity.com/id/yourname
 
@@ -145,7 +145,7 @@ tagcloud_limits: 20
 # Archive behavior
 only_show_capsule_in_index: false # If you have hugo amounts of tags and categories, you can set this to true to only show the capsule in the index page for better performance
 
-show_update_time: false # If you want to show the update time, please set this to true
+show_update_time: true # If you want to show the update time, please set this to true
 
 # Summary content
 summary:
@@ -153,9 +153,9 @@ summary:
   style: 'subtitle' # 'subtitle' or 'blockquote'
 
 triangle_badge:
-  enable: false
+  enable: true
   icon: github # same as the icon in the social config
-  link: https://github.com/D-Sketon/hugo-theme-reimu
+  link: https://github.com/KanadeAlt
 
 # RSS output
 rss:
@@ -200,7 +200,7 @@ icon_font: 4552607_4k4bc36ef96
 
 # Custom Font
 custom_font:
-  enable: false
+  enable: true
   article:
      - css: https://fontsapi.zeoseven.com/292/main/result.css # font css
        name: LXGW WenKai # font name
@@ -209,7 +209,7 @@ custom_font:
 # https://fonts.google.com/
 # Google Fonts, higher priority than local_font
 font:
-  enable: true
+  enable: false
   article:
     - Mulish
     - Noto Serif SC
@@ -570,7 +570,7 @@ home_categories:
 
 # Experimental, may have a lot of bugs, open with caution!
 pjax:
-  enable: false
+  enable: true
 
 # Experimental
 # https://github.com/GoogleChromeLabs/quicklink
@@ -596,7 +596,7 @@ live2d:
 
 # Experimental
 live2d_widgets:
-  enable: true
+  enable: false
   position: right # left or right
 
 # https://github.com/CodeByZach/pace
